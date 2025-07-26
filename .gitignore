@@ -1,0 +1,7 @@
+.DS_Store
+*.RPP-bak
+*.bak
+*.swp
+__pycache__/
+*.luac
+EOF
